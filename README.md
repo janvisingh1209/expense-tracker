@@ -38,6 +38,9 @@ Users can register, log in, and track daily expenses securely with a simple, res
 
 
 ```bash
+
+
+BACKEND
 cd backend
 npm install
 
@@ -52,7 +55,7 @@ Start backend:
 npm start
 Runs on http://localhost:8000
 
-### Frontend
+FRONTEND
 cd frontend
 npm install
 
