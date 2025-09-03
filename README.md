@@ -36,7 +36,7 @@ Users can register, log in, and track daily expenses securely with a simple, res
 
 ## 🔧 Setup
 
-### Backend
+
 ```bash
 cd backend
 npm install
