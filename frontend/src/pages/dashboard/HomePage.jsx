@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import DashboardLayout from "../../components/layout/DashboardLayout";
-import InfoCard from "../../components/cards/InfoCard";
+import InfoCard from "../../components/Cards/InfoCard";
 import { API_PATHS } from "../../utils/api-path";
 import axiosInstance from "../../utils/axiosInstance";
 import useUserAuth from "../../hooks/useUserAuth"; // to protect route
