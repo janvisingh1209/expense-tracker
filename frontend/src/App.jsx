@@ -8,7 +8,7 @@ import {
 
 import Login from "./pages/auth/login";
 import SignUp from "./pages/auth/signup";
-import Home from "./pages/dashboard/home";
+import Home from "./pages/dashboard/Home";
 import Income from "./pages/dashboard/income";
 import Expense from "./pages/dashboard/expense";
 import UserProvider, { UserContext } from "./context/UserContext";
