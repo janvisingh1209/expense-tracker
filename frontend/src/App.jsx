@@ -10,7 +10,7 @@ import {
 
 import Login from "./pages/auth/login";
 import SignUp from "./pages/auth/signup";
-import Home from "./pages/dashboard/Home";
+import Home from "./pages/dashboard/HomePage";
 import Income from "./pages/dashboard/income";
 import Expense from "./pages/dashboard/expense";
 import UserProvider, { UserContext } from "./context/UserContext";
