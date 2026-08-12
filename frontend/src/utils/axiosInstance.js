@@ -1,6 +1,8 @@
 import axios from "axios";
 import { BASE_URL } from "./api-path";
 
+console.log("🔍 AXIOS BASE_URL AT CREATION:", BASE_URL);
+
 const axiosInstance = axios.create({
   baseURL: BASE_URL,
   timeout: 10000,
